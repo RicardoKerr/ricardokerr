@@ -1,0 +1,9 @@
+procedure Colocar3(cor) {
+  Colocar(cor)
+  Colocar(cor)
+  Colocar(cor)
+}
+program{
+  Colocar3(Preto)
+  Colocar3(Vermelho)
+}
