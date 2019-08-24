@@ -1,0 +1,8 @@
+procedure DesenharLinhaPreta3() {
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)
+  Mover(Leste)
+  Colocar(Preto)
+VoltarAtras()
+}
