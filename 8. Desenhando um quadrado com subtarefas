@@ -1,0 +1,7 @@
+procedure DesenharQuadradoPretoDeLado3() {
+  DesenharLinhaPreta3()
+  Mover(Norte)
+  DesenharLinhaPreta3()
+  Mover(Norte)
+  DesenharLinhaPreta3()
+}
